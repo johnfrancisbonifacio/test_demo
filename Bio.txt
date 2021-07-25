@@ -2,3 +2,4 @@ Name: John Francis J. Bonifacio
 Age: 28
 Address: 154 V. Cruz St. Malibay, Pasay City.
 Nationality: 
+Civil Status:
