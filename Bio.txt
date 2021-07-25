@@ -3,4 +3,4 @@ Age: 28
 Address: 154 V. Cruz St. Malibay, Pasay City
 Nationality: Filipino
 Civil Status: Single
-Educational Attainment:
+Educational Attainment: College Degree
